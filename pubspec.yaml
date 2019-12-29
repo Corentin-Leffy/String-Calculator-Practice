@@ -1,0 +1,11 @@
+name: string_calculator
+description: This is a TDD Kata- an exercise in coding, refactoring and test-first, that you should
+  apply daily for at least 15 minutes .
+version: 0.0.1
+author:
+homepage:
+
+environment:
+  sdk: '>=2.7.0 <3.0.0'
+dev_dependencies:
+  test: '<2.0.0'
